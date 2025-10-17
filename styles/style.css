@@ -45,7 +45,7 @@ nav .container {
     align-items: center;
 }
 
-.logo {
+.text-logo {
     color: #bfdbc4;
     font-size: 1.5rem;
     font-weight: bold;
@@ -323,7 +323,7 @@ footer {
         flex-wrap: wrap;
     }
 
-    .logo {
+    .text-logo {
         font-size: 1.3rem;
     }
 
